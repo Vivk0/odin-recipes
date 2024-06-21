@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(241, 219, 235);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#title {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.header {
+    font-style: italic;
+}
+
+.ingredients {
+    color: rgb(102, 4, 73);
+}
+
+.steps {
+    color: rgb(59, 6, 180);
+}
