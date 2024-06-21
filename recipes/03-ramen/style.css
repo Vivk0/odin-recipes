@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(248, 234, 215);
+}
+
+#title {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 24px;
+font-style: italic;
+}
+
+.ingredients {
+    color: rgb(150, 5, 5);
+}
+
+.steps {
+    color: rgb(2, 44, 2);
+}
